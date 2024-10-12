@@ -12,5 +12,7 @@ This repository contains a web application that demonstrates how the command inj
 
 ### Example payloads
 \`touch rce\`.mp4
+
 file.mp4;touch rce;
+
 file.mp4||touch /tmp/rce||
